@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-gpt-assistant",
+  "name": "GPT Assistant",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "GPT-powered assistant for analyzing and generating responses based on your notes",
+  "author": "Your Name",
+  "authorUrl": "https://github.com/yourusername",
+  "isDesktopOnly": false
+} 
